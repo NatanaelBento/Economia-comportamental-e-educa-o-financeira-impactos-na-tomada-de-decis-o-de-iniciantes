@@ -1,2 +1,2 @@
-# Economia-comportamental-e-educa-o-financeira-impactos-na-tomada-de-decis-o-de-iniciantes
+# Economia comportamental e educação financeira impactos na tomada de decisão de iniciantes
 Repositório com notebook introdutório sobre a influência do comportamento humano na economia e nas finanças pessoais. Baseado em fontes educacionais acessíveis, apresenta fundamentos de economia comportamental e analisa como fatores psicológicos impactam decisões de consumo, poupança e investimento, especialmente para iniciantes.
